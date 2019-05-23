@@ -4,4 +4,4 @@ set -euo pipefail
 
 cd $(dirname $0)
 
-npx babel-node .
+npx babel-node src

@@ -1,4 +1,4 @@
-import {App} from './src/app';
+import {App} from './app';
 import {render} from 'ink';
 import * as React from 'react';
 
